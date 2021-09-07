@@ -2,15 +2,12 @@
 
 Kingslayer is a simple chess game with AI and Deep Neural Network that can play against humans.
 
-![gc](./img/king.png)
 
 ## Running the chess engine:
 
 ```bash
 $ python3 src/game.py
 ```
-
-![gc2](./img/fun.gif)
 
 ## Dependencies
 
